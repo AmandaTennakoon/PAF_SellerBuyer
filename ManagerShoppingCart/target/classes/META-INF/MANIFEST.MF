@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Nisanka
+Build-Jdk: 11.0.2
+Implementation-Title: SbHibernateShoppingCart
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.amanda
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/SbHibernateShoppingCart
+Created-By: Maven Integration for Eclipse
+
